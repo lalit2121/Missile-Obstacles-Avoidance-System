@@ -64,22 +64,4 @@ Approx. **6000 INR**
 
 ---
 
-## 🌍 Impact
-- Defense applications  
-- Improved targeting accuracy  
-- Encourages aerospace innovation  
 
----
-
-## 📖 References
-- GPS & Navigation Systems – Grewal  
-- NASA GNC Reports  
-- Spacecraft Control Studies  
-
----
-
-## 🔗 Links
-- https://www.nasa.gov/sites/default/files/atoms/files/gnc.pdf  
-- https://www.researchgate.net/publication/321539579  
-
----
