@@ -1,7 +1,7 @@
 # 🚀 Missile GNC System
 
 
-![Missile GNC Simulation](images/miss.jpg)
+![Missile GNC Simulation](miss.jpg)
 
 ## 📌 Overview
 A project focused on improving **Guidance, Navigation, and Control (GNC)** for accurate and stable missile targeting using simulation and embedded systems.
